@@ -1,5 +1,3 @@
----
-
 # ✨ Runaway
 
 A simple tool to automatically connect to **Electro DNS** and help bypass sanctions and restrictions.
